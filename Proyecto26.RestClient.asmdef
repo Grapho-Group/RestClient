@@ -1,6 +1,8 @@
 {
     "name": "Proyecto26.RestClient",
+    "rootNamespace": "",
     "references": [
+        "ProtoPromise"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
