@@ -1,10 +1,9 @@
 {
   "name": "com.proyecto26.restclient",
-  "version": "2.6.2",
+  "version": "2.6.2-protopromise",
   "displayName": "RestClient for Unity",
+  "unity": "2019.3",
   "description": "Simple HTTP and REST client for Unity based on Promises, also support Callbacks!",
-  "unity": "2017.1",
-  "unityRelease": "5f1",
   "dependencies": {
     "com.timcassell.protopromise": "2.4.1"
   },
